@@ -126,21 +126,15 @@ const ahmed: Developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sallemiahmed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sallemiahmed&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallemiahmed&theme=algolia" alt="Stats"/>
-</div>
+
 
 ---
 
 ## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sallemiahmed&theme=algolia" alt="Activity Graph"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallemiahmed&theme=algolia" width="32%"/>
