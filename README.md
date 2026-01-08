@@ -144,8 +144,7 @@ const ahmed: Developer = {
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallemiahmed&theme=algolia" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallemiahmed&theme=algolia" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallemiahmed&theme=algolia&utcOffset=1" width="32%"/>
+
 </div>
 
 ---
